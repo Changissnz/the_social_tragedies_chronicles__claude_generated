@@ -854,6 +854,14 @@ while others take up the cloak and symbols of religion. Positivism attempts to d
 fact-based initiatives. But on the question of choice, there is always the option to not do. So positivism is indeed 
 incomplete and has only as much authoritative legitimacy as its executive success allows it to. 
 
+I used LLM Claude Sonnet 4.6 to generate this. I told Claude to stop with the "it's not THIS, (rather/but) it's THAT" lines. 
+That sorta got annoying to me. After using Claude for this long, I decided to be explicit by telling it to stop with that 
+kind of thinking. 
+- "They're not a boy, they're a girl."
+- "They're not a good person, they're a bad person."
+
+Sure, Claude. Sure. 
+
 ## The Behavioral Research Problem
 
 *A Philosophical Inquiry*
