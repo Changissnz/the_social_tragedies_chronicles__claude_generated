@@ -849,7 +849,7 @@ A machine that eats people. Built by law. Sustained by complicity. And running, 
 Human behavior. Who is right and who is wrong? The evidence of human behavior is clear evidence of who is right and 
 who is wrong. That is the positivist perspective. That is the perspective that claims that everything pertinent shall 
 be known, and what is pertinent will be used to decide what is right and wrong. Positivist perspectives tend to try to 
-be empirical in the concluding judgments. Some positivist perspectives take up the talking points of scientific truths, 
+be empirical in the concluding judgments. Some positivist perspectives take up the talking points of scientific methods, 
 while others take up the cloak and symbols of religion. Positivism attempts to delete doubt from the human mind through 
 fact-based initiatives. But on the question of choice, there is always the option to not do. So positivism is indeed 
 incomplete and has only as much authoritative legitimacy as its executive success allows it to. 
