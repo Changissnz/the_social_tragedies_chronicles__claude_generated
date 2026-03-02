@@ -1142,7 +1142,7 @@ Sorry that I couldn't make these last words for this project more pleasant.
 
 And then BAMMO!! Destruction and disgrace. The silent roar of the phantoms lurking around at night, the ghouls 
 circling the Cathedral, the goblins guarding the corporate skyscraper billion dollar enterprise. These 
-are the unknowns that have been keeping something far more unpleasant to many, and that is the unexpected, 
+are the unknowns that have been keeping something far more unpleasant from many, and that is the unexpected, 
 at bay. 
 
 Maybe it's because things are heating up, like a volcano about to erupt. Maybe the hot honeymoon has passed, 
