@@ -1140,7 +1140,7 @@ Sorry that I couldn't make these last words for this project more pleasant.
 
 "Everything will be okay, sweetie.Everything will be alright, honey." 
 
-And then BAMMO!! Destruction and disgrace. The roar of the phantoms lurking around at night, the ghouls 
+And then BAMMO!! Destruction and disgrace. The silent roar of the phantoms lurking around at night, the ghouls 
 circling the Cathedral, the goblins guarding the corporate skyscraper billion dollar enterprise. These 
 are the unknowns that have been keeping something far more unpleasant to many, and that is the unexpected, 
 at bay. 
